@@ -1,19 +1,20 @@
 Algoritmo "AtividadePratica6-letra B"
 
 Var
-// Seção de Declarações das variáveis
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
+//Valores das variÃ¡veis necessÃ¡rias para conclusÃ£o do solicitado 
 i,multiplicacao,num: inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
 //
 multiplicacao<-1
 ENQUANTO i<=4 FACA
-     Escreval("Oi, digite um nº do tipo inteiro: ")
+     Escreval("Oi, digite um nÂº do tipo inteiro: ")
      Leia(num)
      multiplicacao<-multiplicacao*num
      i<-i+1
 FIMENQUANTO
-       Escreval("Resultado da multiplicação: ", multiplicacao)
+       Escreval("Resultado da multiplicaÃ§Ã£o: ", multiplicacao)
 
 Fimalgoritmo
